@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# React based news application using newsAPI
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Developed it while learning ReactJS. 
 
 ## Available Scripts
 
